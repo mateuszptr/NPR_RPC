@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: rpcudp
+Version: 3.0.0
+Summary: RPC via UDP
+Home-page: http://github.com/bmuller/rpcudp
+Author: Brian Muller
+Author-email: bamuller@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: u-msgpack-python (>=1.5)
+
+UNKNOWN
+
+
